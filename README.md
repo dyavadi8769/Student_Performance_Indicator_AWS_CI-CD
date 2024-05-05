@@ -7,6 +7,22 @@
 
 This project develops a predictive model to assess student performance using machine learning regression techniques. Aimed at educational institutions, the model predicts academic outcomes based on students' demographic and academic data. The repository includes a full suite of scripts for data preprocessing, model training, prediction, and evaluation. Additionally, the project is configured for AWS deployment with CI/CD integration, ensuring scalability and ease of updates. This approach enhances decision-making and strategic planning in education by providing actionable insights into student performance.
 
+
+# Independent Features
+
+Below are the Independent Features used in the Model:
+
+1. gender: Student's gender (male or female)
+2. race_ethnicity: Group classification (e.g., group D)
+3. parental_level_of_education: Highest education level of parents
+4. lunch: Type of lunch received (standard or free/reduced)
+5. test_preparation_course: Completion status of a preparatory course
+6. physics_score: Score in physics subject
+7. chemistry_score: Score in chemistry subject
+
+
+
+
 # Steps Involved
 
 1. Comprehensive data preprocessing and feature engineering
