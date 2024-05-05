@@ -21,6 +21,16 @@ Below are the Independent Features used in the Model:
 7. chemistry_score: Score in chemistry subject
 
 
+# Algorithms Used:
+
+Model is trained using the below Machine Learning Algorithms and Algorithm giving the highest accuracy is chosen:
+1. Linear Regression: Predicts outcomes using linear relationships.
+2. Decision Tree: Splits data based on value conditions.
+3. Random Forest: Ensemble of decision trees, reduces overfitting.
+4. Gradient Boosting: Improves weak models with error-driven updates.
+5. AdaBoost: Boosts weak learners into strong ones iteratively.
+6. CatBoost: Gradient boosting with categorical data optimization.
+7. XGBoost: Optimized gradient boosting with scalability and speed.
 
 
 # Steps Involved
