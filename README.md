@@ -1,4 +1,4 @@
-# Student Performance Indicator
+## Student Performance Indicator
 
 # This is a Machine Learning End-End Project
 
@@ -7,10 +7,10 @@
 
 This project develops a predictive model to assess student performance using machine learning regression techniques. Aimed at educational institutions, the model predicts academic outcomes based on students' demographic and academic data. The repository includes a full suite of scripts for data preprocessing, model training, prediction, and evaluation. Additionally, the project is configured for AWS deployment with CI/CD integration, ensuring scalability and ease of updates. This approach enhances decision-making and strategic planning in education by providing actionable insights into student performance.
 
-# Features
+# Steps Involved
 
 1. Comprehensive data preprocessing and feature engineering
-2. .Multiple regression algorithms including Linear Regression, Decision Tree, Random Forest, and Boosting Algorithms.
+2. Multiple regression algorithms including Linear Regression, Decision Tree, Random Forest, and Boosting Algorithms.
 3. Deployment setup for AWS using CI/CD pipelines.
 
 
@@ -69,7 +69,10 @@ newgrp docker
 
 # Configure EC2 as self-hosted runner:
 
-Setup github secrets:
+Run the commands shown after the runner is created in GitHub for Downloading, Configuring and Running the self-hosted runner
+
+
+# Setup github secrets:
 
 AWS_ACCESS_KEY_ID=
 
